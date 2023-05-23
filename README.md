@@ -84,4 +84,3 @@ Deployment, Netlify
 
 ---
 
-**Note:** This document provides an overview of the QKart project, describing the implemented features and skills used. It is intended to be used as a README file for the project's GitHub repository.
